@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <item name="loop_viewpager" ns1:ignore="ResourceName" type="id"/>
+
+    <bool name="default_circle_indicator_centered">true</bool>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+</resources>

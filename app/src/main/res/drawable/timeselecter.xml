@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!--自定义开关按钮-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/bg_continue_send_pressed" android:state_pressed="true" />
+    <item android:drawable="@mipmap/bg_continue_send_pressed" android:state_selected="true" />
+    <!--选中时效果-->
+    <item android:drawable="@mipmap/bg_continue_send"  />
+    <!--未选中时效果-->
+</selector>
